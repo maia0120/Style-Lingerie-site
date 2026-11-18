@@ -49,6 +49,20 @@ page=f'''<!DOCTYPE html>
 <title>Style Lingerie — Moda Íntima, Praia, Fitness e Noivas</title>
 <meta name="description" content="Sinta-se poderosa na sua própria pele. Moda íntima, praia, fitness, modeladores e atendimento exclusivo para noivas. Compre no Mercado Livre, Shopee, Magalu ou pelo WhatsApp.">
 <link rel="icon" href="logo.png">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://style-lingerie-site.vercel.app/">
+<meta property="og:site_name" content="Style Lingerie">
+<meta property="og:title" content="Style Lingerie — Sinta-se poderosa na sua própria pele">
+<meta property="og:description" content="Moda íntima, praia, fitness e noivas. Ofertas exclusivas e compra pelo Mercado Livre, Shopee, Magalu ou WhatsApp.">
+<meta property="og:image" content="https://style-lingerie-site.vercel.app/og-image.jpg">
+<meta property="og:image:secure_url" content="https://style-lingerie-site.vercel.app/og-image.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Banner da Style Lingerie: Sinta-se poderosa na sua própria pele">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://style-lingerie-site.vercel.app/og-image.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Great+Vibes&family=Jost:wght@300;400;500;600&display=swap">
